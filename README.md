@@ -8,4 +8,5 @@ When someone has a *growth mindset* it simply means that they have a mindset tha
 3. Sometimes I can't solve a problem right away, sometimes I just need to take a step back
 
 Here is the link to my GitHub page: [link](https://github.com/GabeGerdes)
+
 DISCUSSION_01: [link](DISCUSSION_01.md)
