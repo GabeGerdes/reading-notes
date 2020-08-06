@@ -24,7 +24,7 @@ Some other examples are...
 
 ## How to link files
 `[link name](http://blahblahblah.com)`=
-[link to home page](README.md)
+[link to home page](https://github.com/GabeGerdes)
 
 ## How to make lists
 `-` fake text=
