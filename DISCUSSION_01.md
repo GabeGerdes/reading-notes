@@ -35,9 +35,13 @@ or
 `1.` fake text=
 1. fake text
 
+##How to make nested lists
+`1.` first thing
+    `-` second thing
+       `-` third thing
 1. first thing
    - second thing
-     - thrid thing
+     - third thing
 
 ## How to make a task list
 `- [ ]` unchecked task
